@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![serces]({{ "/assets/img/posts/about.png" | relative_url }})
+![serces]({{ "/assets/img/posts/about.jpg" | relative_url }})
 
 ## <center>网络攻防世界的🥬小白菜🥬<center>
 
@@ -12,3 +12,7 @@ permalink: /about/
 
 # <center>Try Harder<center>
 
+  
+
+
+<center>Theme By Sleek<center>
